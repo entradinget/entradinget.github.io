@@ -2,27 +2,12 @@
 #EXTINF:0 group-title="AIRE Y NOTICIAS",Telefe Buenos Aires (1080p)
 #EXTVLCOPT:network-caching=1000
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
-#EXTINF:0 group-title="AIRE Y NOTICIAS",Telefe HD
-#EXTVLCOPT:network-caching=1000
-http://177.53.153.207:8000/play/a00o/index.m3u8
 #EXTINF:0 group-title="AIRE Y NOTICIAS",El Trece (1080p)
 #EXTVLCOPT:network-caching=1000
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:0 group-title="AIRE Y NOTICIAS",el trece HD
-#EXTVLCOPT:network-caching=1000
-http://177.53.153.207:8000/play/a00p/index.m3u8
-#EXTINF:0 group-title="AIRE Y NOTICIAS",America TV AR HD
-#EXTVLCOPT:network-caching=1000
-http://177.53.153.207:8000/play/a00g/index.m3u8
-#EXTINF:0 group-title="AIRE Y NOTICIAS",TV Publica HD
-#EXTVLCOPT:network-caching=1000
-http://177.53.153.207:8000/play/a00h/index.m3u8
 #EXTINF:0 group-title="AIRE Y NOTICIAS",C9N HD
 #EXTVLCOPT:network-caching=1000
 http://190.128.214.97:64333/play/a003/index.m3u8
-#EXTINF:0 group-title="AIRE Y NOTICIAS",el nueve HD
-#EXTVLCOPT:network-caching=1000
-http://177.53.153.207:8000/play/a00e/index.m3u8
 #EXTINF:0 group-title="AIRE Y NOTICIAS",NET TV (720p)
 #EXTVLCOPT:network-caching=1000
 http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
@@ -32,27 +17,15 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__27.2NETTV_____
 #EXTINF:0 group-title="AIRE Y NOTICIAS",Bravo TV - 27.1TV - CABA TV TDA - CD Cd Aut Bs As
 #EXTVLCOPT:network-caching=1000
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__27.1BRAVOTV___
-#EXTINF:0 group-title="AIRE Y NOTICIAS",CRONICA
-#EXTVLCOPT:network-caching=1000
-http://190.128.214.97:64333/play/a010/index.m3u8
 #EXTINF:0 group-title="AIRE Y NOTICIAS",ENC7 - TNT SPORT HD
 #EXTVLCOPT:network-caching=1000
 http://190.128.214.97:64333/play/a03c/index.m3u8
-#EXTINF:0 group-title="AIRE Y NOTICIAS",TN HD
-#EXTVLCOPT:network-caching=1000
-http://177.53.153.207:8000/play/a01v/index.m3u8
 #EXTINF:0 group-title="AIRE Y NOTICIAS",TN Todo Noticias - CTV - CABA TV Cable - CD Cd Aut Bs As
 #EXTVLCOPT:network-caching=1000
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTNTODONOTI
 #EXTINF:0 group-title="AIRE Y NOTICIAS",TNT HD
 #EXTVLCOPT:network-caching=1000
-http://177.53.153.207:8000/play/a00z/index.m3u8
-#EXTINF:0 group-title="AIRE Y NOTICIAS",TNT HD
-#EXTVLCOPT:network-caching=1000
 http://38.7.197.119:4000/play/a00m/index.m3u8
-#EXTINF:0 group-title="AIRE Y NOTICIAS",TNT Series HD
-#EXTVLCOPT:network-caching=1000
-http://177.53.153.207:8000/play/a010/index.m3u8
 #EXTINF:0 group-title="AIRE Y NOTICIAS",Canal 26 - 26.1TV - CABA TV TDA - CD Cd Aut Bs As
 #EXTVLCOPT:network-caching=1000
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__26.1CANAL26___
@@ -65,72 +38,54 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__25.4TELESUR___
 #EXTINF:0 group-title="DEPORTES",ENC3 - ESPN PREMIUM
 #EXTVLCOPT:network-caching=1000
 http://190.128.214.97:64333/play/a02i/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN
+#EXTVLCOPT:network-caching=1000
+http://45.170.130.224:8000/play/a01y/index.m3u8
 #EXTINF:0 group-title="DEPORTES",ESPN 2
 #EXTVLCOPT:network-caching=1000
 http://190.128.214.97:64333/play/a03b/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 2 HD
+#EXTINF:0 group-title="DEPORTES",ESPN 2
 #EXTVLCOPT:network-caching=1000
-http://177.53.153.207:8000/play/a00i/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 3 HD
+http://45.170.130.224:8000/play/a01p/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 3
 #EXTVLCOPT:network-caching=1000
-http://177.53.153.207:8000/play/a00k/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 4 HD
+http://45.170.130.224:8000/play/a03s/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 4
 #EXTVLCOPT:network-caching=1000
-http://177.53.153.207:8000/play/a00v/index.m3u8
+http://45.170.130.224:8000/play/a01w/index.m3u8
 #EXTINF:0 group-title="DEPORTES",ESPN 6 HD - 1653
 #EXTVLCOPT:network-caching=1000
 http://191.52.214.129:8000/play/a09g/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN HD
+#EXTINF:0 group-title="DEPORTES",ESPN1
 #EXTVLCOPT:network-caching=1000
-http://177.53.153.207:8000/play/a00j/index.m3u8
+http://38.252.215.33:8000/play/a00j/index.m3u8
 #EXTINF:0 group-title="DEPORTES",ENC4 - FOX SPORTS
 #EXTVLCOPT:network-caching=1000
 http://190.128.214.97:64333/play/a02l/index.m3u8
-#EXTINF:0 group-title="DEPORTES",Fox Sports 2 HD
-#EXTVLCOPT:network-caching=1000
-http://177.53.153.207:8000/play/a006/index.m3u8
-#EXTINF:0 group-title="DEPORTES",Fox Sports 3 HD
-#EXTVLCOPT:network-caching=1000
-http://177.53.153.207:8000/play/a001/index.m3u8
-#EXTINF:0 group-title="DEPORTES",Fox Sports HD
-#EXTVLCOPT:network-caching=1000
-http://177.53.153.207:8000/play/a008/index.m3u8
 #EXTINF:0 group-title="DEPORTES",E24 TYC SPORT
 #EXTVLCOPT:network-caching=1000
 http://190.128.214.97:64333/play/a01l/index.m3u8
 #EXTINF:0 group-title="DEPORTES",TyC Sports (1080p)
 #EXTVLCOPT:network-caching=1000
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:0 group-title="DEPORTES",TyC Sports HD
-#EXTVLCOPT:network-caching=1000
-http://177.53.153.207:8000/play/a005/index.m3u8
 #EXTINF:0 group-title="DEPORTES",TyC Sports USA
 #EXTVLCOPT:network-caching=1000
 http://45.170.130.224:8000/play/a020/index.m3u8
-#EXTINF:0 group-title="DEPORTES",DeporTV
-#EXTVLCOPT:network-caching=1000
-http://177.53.153.207:8000/play/a00r/index.m3u8
-#EXTINF:0 group-title="DEPORTES",AM SPORTS
-#EXTVLCOPT:network-caching=1000
-http://177.53.153.207:8000/play/a01z/index.m3u8
 #EXTINF:0 group-title="DEPORTES",Claro Sports 2 HD
 #EXTVLCOPT:network-caching=1000
 http://45.238.54.249:8000/play/a070/index.m3u8
 #EXTINF:0 group-title="DEPORTES",Claro Sports 2 SD
 #EXTVLCOPT:network-caching=1000
 http://45.238.54.249:8000/play/a071/index.m3u8
+#EXTINF:0 group-title="DEPORTES",D-SPORT_2
+#EXTVLCOPT:network-caching=1000
+http://38.210.105.10:8000/play/a0j5/index.m3u8
 #EXTINF:0 group-title="DEPORTES",DSPORT-1635
 #EXTVLCOPT:network-caching=1000
 http://191.52.214.129:8000/play/a06gx/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES",Telemax - 26.3TV - CABA TV TDA - CD Cd Aut Bs As
 #EXTVLCOPT:network-caching=1000
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__26.3TELEMAX___
-#EXTINF:0 group-title="CINE Y SERIES",Star Channel HD
-#EXTVLCOPT:network-caching=1000
-http://177.53.153.207:8000/play/a00x/index.m3u8
-#EXTINF:0 group-title="CINE Y SERIES",Cinecanal HD
-#EXTVLCOPT:network-caching=1000
-http://177.53.153.207:8000/play/a00y/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES",SPACE HD
 #EXTVLCOPT:network-caching=1000
 http://38.7.197.119:4000/play/a00n/index.m3u8
@@ -146,12 +101,6 @@ http://138.121.15.230:9002/SONY/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES",Sony HD
 #EXTVLCOPT:network-caching=1000
 http://177.53.153.207:8000/play/a00l/index.m3u8
-#EXTINF:0 group-title="CINE Y SERIES",Sony Movies HD
-#EXTVLCOPT:network-caching=1000
-http://177.53.153.207:8000/play/a00n/index.m3u8
-#EXTINF:0 group-title="CINE Y SERIES",LIFETIME ARSAT 2
-#EXTVLCOPT:network-caching=1000
-http://177.53.153.207:8000/play/a025/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES",CINE HISPANO
 #EXTVLCOPT:network-caching=1000
 http://38.7.197.119:4000/play/a00k/index.m3u8
@@ -173,9 +122,6 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARSASALTA___WEBPELICULA5_
 #EXTINF:0 group-title="CINE Y SERIES",Pelicula 6 - WebTV - Salta  TV - SA Salta
 #EXTVLCOPT:network-caching=1000
 https://radiosargentina.com.ar/php/artvDI.php?id=ARSASALTA___WEBPELICULA6_
-#EXTINF:0 group-title="INFANTIL",PAKAPAKA HD
-#EXTVLCOPT:network-caching=1000
-http://177.53.153.207:8000/play/a01w/index.m3u8
 #EXTINF:0 group-title="MUSICA",HTV
 #EXTVLCOPT:network-caching=1000
 http://38.7.197.119:4000/play/a002/index.m3u8
@@ -185,15 +131,6 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CGARAGETV__
 #EXTINF:0 group-title="DOCUMENTALES",HISTORY
 #EXTVLCOPT:network-caching=1000
 http://38.7.197.119:4000/play/a00t/index.m3u8
-#EXTINF:0 group-title="DOCUMENTALES",The History Channel HD
-#EXTVLCOPT:network-caching=1000
-http://177.53.153.207:8000/play/a00m/index.m3u8
-#EXTINF:0 group-title="DOCUMENTALES",Discovery Channel HD
-#EXTVLCOPT:network-caching=1000
-http://177.53.153.207:8000/play/a014/index.m3u8
-#EXTINF:0 group-title="DOCUMENTALES",Discovery Turbo
-#EXTVLCOPT:network-caching=1000
-http://177.53.153.207:8000/play/a00a/index.m3u8
 #EXTINF:0 group-title="DOCUMENTALES",HGTV
 #EXTVLCOPT:network-caching=1000
 http://38.7.197.119:4000/play/a00q/index.m3u8
@@ -218,30 +155,60 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CMUSICTOP__
 #EXTINF:0 group-title="INTERIOR Y REGIONALES",RT - 25.5TV - CABA TV TDA - CD Cd Aut Bs As
 #EXTVLCOPT:network-caching=1000
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__25.5RT________
-#EXTINF:0 group-title="INTERNACIONALES",TVE
-#EXTVLCOPT:network-caching=1000
-http://177.53.153.207:8000/play/a00s/index.m3u8
-#EXTINF:0 group-title="VARIEDAD",DHE
-#EXTVLCOPT:network-caching=1000
-http://38.7.197.119:4000/play/a00o/index.m3u8
-#EXTINF:0 group-title="VARIEDAD",Film & Arts HD
-#EXTVLCOPT:network-caching=1000
-http://177.53.153.207:8000/play/a00d/index.m3u8
-#EXTINF:0 group-title="VARIEDAD",RT en Español
-#EXTVLCOPT:network-caching=1000
-http://177.53.153.207:8000/play/a00q/index.m3u8
-#EXTINF:0 group-title="VARIEDAD",TELENOVELAS
-#EXTVLCOPT:network-caching=1000
-http://177.53.153.207:8000/play/a01y/index.m3u8
-#EXTINF:0 group-title="VARIEDAD",Telpin TV Canal 2 HD (720p)
-#EXTVLCOPT:network-caching=1000
-https://mistserver.telpin.com.ar:8443/hls/telpinlive/index.m3u8
-#EXTINF:0 group-title="ESTILO DE VIDA",SRT - GOURMET
-#EXTVLCOPT:network-caching=1000
-http://38.225.116.4:22000/play/a014/index.m3u8
-#EXTINF:0 group-title="VARIEDAD",SRT - FILM & ARTS
-#EXTVLCOPT:network-caching=1000
-http://38.225.116.4:22000/play/a012/index.m3u8
 #EXTINF:0 group-title="INTERNACIONALES",SRT - TELEMUNDO
 #EXTVLCOPT:network-caching=1000
 http://38.225.116.4:22000/play/a015/index.m3u8
+#EXTINF:0 group-title="ESTILO DE VIDA",SRT - GOURMET
+#EXTVLCOPT:network-caching=1000
+http://38.225.116.4:22000/play/a014/index.m3u8
+#EXTINF:0 group-title="VARIEDAD",DHE
+#EXTVLCOPT:network-caching=1000
+http://38.7.197.119:4000/play/a00o/index.m3u8
+#EXTINF:0 group-title="VARIEDAD",RT en Español
+#EXTVLCOPT:network-caching=1000
+http://177.53.153.207:8000/play/a00q/index.m3u8
+#EXTINF:0 group-title="VARIEDAD",SRT - FILM & ARTS
+#EXTVLCOPT:network-caching=1000
+http://38.225.116.4:22000/play/a012/index.m3u8
+#EXTINF:0 group-title="VARIEDAD",Telpin TV Canal 2 HD (720p)
+#EXTVLCOPT:network-caching=1000
+https://mistserver.telpin.com.ar:8443/hls/telpinlive/index.m3u8
+#EXTINF:0 group-title="VARIEDAD",TV Universidad
+#EXTVLCOPT:network-caching=1000
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+#EXTINF:0 group-title="CINE Y SERIES",Sony HD
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.250:8000/play/a0nx/index.m3u8
+#EXTINF:0 group-title="DOCUMENTALES",Nat Geo HD
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.250:8000/play/a0ns/index.m3u8
+#EXTINF:0 group-title="AIRE Y NOTICIAS",MEGA HD
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.250:8000/play/a0kx/index.m3u8
+#EXTINF:0 group-title="MUSICA",MTV HD
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.250:8000/play/a0r9/index.m3u8
+#EXTINF:0 group-title="INTERNACIONALES",Las Estrellas HD
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.250:8000/play/a0l3/index.m3u8
+#EXTINF:0 group-title="VARIEDAD",La Tele t
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.250:8000/play/a0ic/index.m3u8
+#EXTINF:0 group-title="DOCUMENTALES",ID HD
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.250:8000/play/a0o0/index.m3u8
+#EXTINF:0 group-title="VARIEDAD",HOLA TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.250:8000/play/a0nv/index.m3u8
+#EXTINF:0 group-title="CINE Y SERIES",HBO HD
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.250:8000/play/a0r5/index.m3u8
+#EXTINF:0 group-title="CINE Y SERIES",HBO POP HD
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.250:8000/play/a0kv/index.m3u8
+#EXTINF:0 group-title="CINE Y SERIES",HBO Xtreme HD
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.250:8000/play/a0l7/index.m3u8
+#EXTINF:0 group-title="ESTILO DE VIDA",El Gourmet HD
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.250:8000/play/a0qt/index.m3u8
