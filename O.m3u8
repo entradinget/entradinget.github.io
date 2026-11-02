@@ -2,18 +2,36 @@
 #EXTINF:0 group-title="AIRE Y NOTICIAS",Telefe
 #EXTVLCOPT:network-caching=1000
 http://45.170.130.224:8000/play/a03n/index.m3u8
+#EXTINF:0 group-title="AIRE Y NOTICIAS",Telefe HD
+#EXTVLCOPT:network-caching=1000
+http://177.53.153.207:8000/play/a00o/index.m3u8
 #EXTINF:0 group-title="AIRE Y NOTICIAS",el trece HD
 #EXTVLCOPT:network-caching=1000
 http://138.59.227.20:8000/play/a07b/index.m3u8
+#EXTINF:0 group-title="AIRE Y NOTICIAS",el trece HD
+#EXTVLCOPT:network-caching=1000
+http://177.53.153.207:8000/play/a00p/index.m3u8
 #EXTINF:0 group-title="AIRE Y NOTICIAS",AMERICA PARAGUAY HD
 #EXTVLCOPT:network-caching=1000
 http://190.128.214.97:64333/play/a04d/index.m3u8
+#EXTINF:0 group-title="AIRE Y NOTICIAS",America TV
+#EXTVLCOPT:network-caching=1000
+http://158.172.155.130:8000/play/a0d5/index.m3u8
+#EXTINF:0 group-title="AIRE Y NOTICIAS",TV Publica HD
+#EXTVLCOPT:network-caching=1000
+http://177.53.153.207:8000/play/a00h/index.m3u8
 #EXTINF:0 group-title="AIRE Y NOTICIAS",C9N HD
 #EXTVLCOPT:network-caching=1000
 http://190.128.214.97:64333/play/a003/index.m3u8
 #EXTINF:0 group-title="AIRE Y NOTICIAS",el nueve HD
 #EXTVLCOPT:network-caching=1000
 http://138.59.227.20:8000/play/a08k/index.m3u8
+#EXTINF:0 group-title="AIRE Y NOTICIAS",el nueve HD
+#EXTVLCOPT:network-caching=1000
+http://177.53.153.207:8000/play/a00e/index.m3u8
+#EXTINF:0 group-title="AIRE Y NOTICIAS",TN HD
+#EXTVLCOPT:network-caching=1000
+http://177.53.153.207:8000/play/a01v/index.m3u8
 #EXTINF:0 group-title="AIRE Y NOTICIAS",TNT HD
 #EXTVLCOPT:network-caching=1000
 http://45.238.54.250:8000/play/a0nt/index.m3u8
@@ -47,39 +65,93 @@ http://190.128.214.97:64333/play/a03k/index.m3u8
 #EXTINF:0 group-title="DEPORTES",ENC3 - ESPN PREMIUM
 #EXTVLCOPT:network-caching=1000
 http://190.128.214.97:64333/play/a02i/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.48.4:8000/play/a0y0/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.48.4:8000/play/a0x0/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.48.4:8000/play/a0im/index.m3u8
 #EXTINF:0 group-title="DEPORTES",ESPN 4 HD
 #EXTVLCOPT:network-caching=1000
 http://45.238.54.250:8000/play/a0o3/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.48.4:8000/play/a0ov/index.m3u8
 #EXTINF:0 group-title="DEPORTES",ESPN 4 T
 #EXTVLCOPT:network-caching=1000
 http://45.238.54.250:8000/play/a0k0/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 5 HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.48.4:8000/play/a0xz/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 5 HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.48.4:8000/play/a0ig/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 5HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.105.10:8000/play/a09h/index.m3u8
 #EXTINF:0 group-title="DEPORTES",ESPN 6 HD
 #EXTVLCOPT:network-caching=1000
 http://45.238.54.250:8000/play/a0qq/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 6 HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.48.4:8000/play/a0wk/index.m3u8
 #EXTINF:0 group-title="DEPORTES",ESPN 7 HD
 #EXTVLCOPT:network-caching=1000
 http://45.238.54.250:8000/play/a0nw/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 7 HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.48.4:8000/play/a0on/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 7 HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.48.4:8000/play/a0hv/index.m3u8
 #EXTINF:0 group-title="DEPORTES",ESPN HD
 #EXTVLCOPT:network-caching=1000
 http://45.238.54.250:8000/play/a0l2/index.m3u8
 #EXTINF:0 group-title="DEPORTES",ESPN HD
 #EXTVLCOPT:network-caching=1000
 http://45.238.54.250:8000/play/a0kg/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://177.53.153.207:8000/play/a00j/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.48.4:8000/play/a0x4/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://45.170.130.224:8000/play/a04l/index.m3u8
 #EXTINF:0 group-title="DEPORTES",ESPN T
 #EXTVLCOPT:network-caching=1000
 http://45.238.54.250:8000/play/a0k1/index.m3u8
+#EXTINF:0 group-title="DEPORTES",Fox Sports 2 HD
+#EXTVLCOPT:network-caching=1000
+http://177.53.153.207:8000/play/a006/index.m3u8
 #EXTINF:0 group-title="DEPORTES",Fox Sports 3 T
 #EXTVLCOPT:network-caching=1000
 http://45.238.54.250:8000/play/a013/index.m3u8
+#EXTINF:0 group-title="DEPORTES",Fox Sports HD
+#EXTVLCOPT:network-caching=1000
+http://177.53.153.207:8000/play/a008/index.m3u8
 #EXTINF:0 group-title="DEPORTES",TyC
 #EXTVLCOPT:network-caching=1000
 http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:0 group-title="DEPORTES",DSPORTS 1
 #EXTVLCOPT:network-caching=1000
 http://38.252.215.33:8000/play/a00q/index.m3u8
+#EXTINF:0 group-title="DEPORTES",DeporTV
+#EXTVLCOPT:network-caching=1000
+http://177.53.153.207:8000/play/a00r/index.m3u8
 #EXTINF:0 group-title="DEPORTES",0 DirecTV SPORTS 1
 #EXTVLCOPT:network-caching=1000
 http://38.187.22.140:25501/play/a01r/index.m3u8
+#EXTINF:0 group-title="DEPORTES",E SPORTS GO
+#EXTVLCOPT:network-caching=1000
+http://138.99.179.64:8000/play/a022/index.m3u8
+#EXTINF:0 group-title="DEPORTES",DSPORT-1635
+#EXTVLCOPT:network-caching=1000
+http://191.52.214.129:8000/play/a06gx/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES",HBO Family HD
 #EXTVLCOPT:network-caching=1000
 http://45.238.54.250:8000/play/a0l6/index.m3u8
@@ -89,12 +161,12 @@ http://45.238.54.250:8000/play/a0r5/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES",HBO HD
 #EXTVLCOPT:network-caching=1000
 http://38.187.22.140:25501/play/a05m/index.m3u8
+#EXTINF:0 group-title="CINE Y SERIES",HBO HD
+#EXTVLCOPT:network-caching=1000
+http://38.226.49.253:8000/play/a067/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES",HBO Xtreme HD
 #EXTVLCOPT:network-caching=1000
 http://45.238.54.250:8000/play/a0l7/index.m3u8
-#EXTINF:0 group-title="CINE Y SERIES",31-FITMAXX
-#EXTVLCOPT:network-caching=1000
-http://190.110.96.238:8000/play/a04l/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES",Cinemax
 #EXTVLCOPT:network-caching=1000
 http://45.238.54.250:8000/play/a0s7/index.m3u8
@@ -104,18 +176,18 @@ http://45.238.54.250:8000/play/a0kf/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES",Star Channel HD
 #EXTVLCOPT:network-caching=1000
 http://45.238.54.250:8000/play/a0rs/index.m3u8
+#EXTINF:0 group-title="CINE Y SERIES",Star Channel HD - 1629
+#EXTVLCOPT:network-caching=1000
+http://191.52.214.129:8000/play/a09b/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES",FX HD
 #EXTVLCOPT:network-caching=1000
 http://45.238.54.250:8000/play/a0rr/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES",FX HD
 #EXTVLCOPT:network-caching=1000
 http://38.3.162.3:18009/play/a0ds/index.m3u8
-#EXTINF:0 group-title="CINE Y SERIES",57-AMC
+#EXTINF:0 group-title="CINE Y SERIES",FX HD - 1625
 #EXTVLCOPT:network-caching=1000
-http://190.110.96.238:8000/play/a0li/index.m3u8
-#EXTINF:0 group-title="CINE Y SERIES",AMC
-#EXTVLCOPT:network-caching=1000
-http://190.234.82.52:8000/play/a0og/index.m3u8
+http://191.52.214.129:8000/play/a099/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES",Cinecanal
 #EXTVLCOPT:network-caching=1000
 http://45.238.54.250:8000/play/a0rb/index.m3u8
@@ -134,9 +206,6 @@ http://45.238.54.250:8000/play/a0qh/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES",UNIVERSAL CHANNEL HD
 #EXTVLCOPT:network-caching=1000
 http://45.238.54.250:8000/play/a0qu/index.m3u8
-#EXTINF:0 group-title="CINE Y SERIES",51-Golden
-#EXTVLCOPT:network-caching=1000
-http://190.110.96.238:8000/play/a0hc/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES",De Pelicula
 #EXTVLCOPT:network-caching=1000
 http://45.238.54.250:8000/play/a0kn/index.m3u8
@@ -146,6 +215,9 @@ http://45.238.54.250:8000/play/a0k6/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES",Sony HD
 #EXTVLCOPT:network-caching=1000
 http://45.238.54.250:8000/play/a0nx/index.m3u8
+#EXTINF:0 group-title="CINE Y SERIES",Sony HD-1627
+#EXTVLCOPT:network-caching=1000
+http://191.52.214.129:8000/play/a0al/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES",Sony Movies
 #EXTVLCOPT:network-caching=1000
 http://45.238.54.250:8000/play/a0qn/index.m3u8
@@ -155,6 +227,9 @@ http://45.238.54.250:8000/play/a0qs/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES",Lifetime
 #EXTVLCOPT:network-caching=1000
 http://45.238.54.250:8000/play/a0si/index.m3u8
+#EXTINF:0 group-title="CINE Y SERIES",CINE PREMIUM
+#EXTVLCOPT:network-caching=1000
+http://138.99.179.64:8000/play/a019/index.m3u8
 #EXTINF:0 group-title="INFANTIL",Adult swim HD
 #EXTVLCOPT:network-caching=1000
 http://138.59.227.20:8000/play/a08d/index.m3u8
@@ -167,9 +242,6 @@ http://190.128.214.97:64333/play/a02v/index.m3u8
 #EXTINF:0 group-title="MUSICA",MTV HD
 #EXTVLCOPT:network-caching=1000
 http://45.238.54.250:8000/play/a0r9/index.m3u8
-#EXTINF:0 group-title="MUSICA",ZZ-GARAGE
-#EXTVLCOPT:network-caching=1000
-http://190.110.96.238:8000/play/a0ln/index.m3u8
 #EXTINF:0 group-title="DOCUMENTALES",History Channel HD
 #EXTVLCOPT:network-caching=1000
 http://45.238.54.250:8000/play/a0nr/index.m3u8
@@ -194,15 +266,15 @@ http://45.238.54.250:8000/play/a0ns/index.m3u8
 #EXTINF:0 group-title="DOCUMENTALES",HGTV
 #EXTVLCOPT:network-caching=1000
 http://45.238.54.250:8000/play/a0sg/index.m3u8
+#EXTINF:0 group-title="DOCUMENTALES",HGTV
+#EXTVLCOPT:network-caching=1000
+http://38.224.48.4:8000/play/a0ne/index.m3u8
 #EXTINF:0 group-title="DOCUMENTALES",ID HD
 #EXTVLCOPT:network-caching=1000
 http://45.238.54.250:8000/play/a0o0/index.m3u8
 #EXTINF:0 group-title="INTERIOR Y REGIONALES",Corrientes TV | AR
 #EXTVLCOPT:network-caching=1000
 http://190.128.214.97:64333/play/a06n/index.m3u8
-#EXTINF:0 group-title="INTERIOR Y REGIONALES",29-CABALLO TV
-#EXTVLCOPT:network-caching=1000
-http://190.110.96.238:8000/play/a0cr/index.m3u8
 #EXTINF:0 group-title="INTERIOR Y REGIONALES",REGIONAL TV
 #EXTVLCOPT:network-caching=1000
 http://190.128.214.97:64333/play/a05o/index.m3u8
@@ -230,27 +302,6 @@ http://45.238.54.250:8000/play/a0sd/index.m3u8
 #EXTINF:0 group-title="ADULTOS",Playboy HD
 #EXTVLCOPT:network-caching=1000
 http://45.238.54.250:8000/play/a0qf/index.m3u8
-#EXTINF:0 group-title="VARIEDAD",44-FMH MOVIE
-#EXTVLCOPT:network-caching=1000
-http://190.110.96.238:8000/play/a0cu/index.m3u8
-#EXTINF:0 group-title="VARIEDAD",45-FMH FAMILY
-#EXTVLCOPT:network-caching=1000
-http://190.110.96.238:8000/play/a0cv/index.m3u8
-#EXTINF:0 group-title="VARIEDAD",50-Clover
-#EXTVLCOPT:network-caching=1000
-http://190.110.96.238:8000/play/a0m1/index.m3u8
-#EXTINF:0 group-title="VARIEDAD",53-MX PRIME
-#EXTVLCOPT:network-caching=1000
-http://190.110.96.238:8000/play/a0cx/index.m3u8
-#EXTINF:0 group-title="VARIEDAD",61-FLASBACK
-#EXTVLCOPT:network-caching=1000
-http://190.110.96.238:8000/play/a0i5/index.m3u8
-#EXTINF:0 group-title="VARIEDAD",83-DOS
-#EXTVLCOPT:network-caching=1000
-http://190.110.96.238:8000/play/a0bv/index.m3u8
-#EXTINF:0 group-title="VARIEDAD",94-OLD MUSIC
-#EXTVLCOPT:network-caching=1000
-http://190.110.96.238:8000/play/a05r/index.m3u8
 #EXTINF:0 group-title="VARIEDAD",Argentinísima Satelital (540p)
 #EXTVLCOPT:network-caching=1000
 https://stream1.sersat.com/hls/argentinisima.m3u8
@@ -272,9 +323,6 @@ http://45.238.54.250:8000/play/a0qv/index.m3u8
 #EXTINF:0 group-title="VARIEDAD",HOLA TV HD
 #EXTVLCOPT:network-caching=1000
 http://45.238.54.250:8000/play/a0nv/index.m3u8
-#EXTINF:0 group-title="VARIEDAD",La Tele t
-#EXTVLCOPT:network-caching=1000
-http://45.238.54.250:8000/play/a0ic/index.m3u8
 #EXTINF:0 group-title="VARIEDAD",PRODUCTIVA TV
 #EXTVLCOPT:network-caching=1000
 http://190.128.214.97:64333/play/a04i/index.m3u8
@@ -296,60 +344,21 @@ http://190.128.214.97:64333/play/a04p/index.m3u8
 #EXTINF:0 group-title="VARIEDAD",VISION TV HD
 #EXTVLCOPT:network-caching=1000
 http://190.128.214.97:64333/play/a00n/index.m3u8
-#EXTINF:0 group-title="DOCUMENTALES",HGTV
+#EXTINF:0 group-title="DEPORTES",TYC SPORTS
 #EXTVLCOPT:network-caching=1000
-http://38.224.48.4:8000/play/a0ne/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN HD
+http://45.4.3.177:9999/play/a0fv
+#EXTINF:0 group-title="AIRE Y NOTICIAS",TNT Sports
 #EXTVLCOPT:network-caching=1000
-http://38.224.48.4:8000/play/a0x4/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 7 HD
-#EXTVLCOPT:network-caching=1000
-http://38.224.48.4:8000/play/a0on/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 7 HD
-#EXTVLCOPT:network-caching=1000
-http://38.224.48.4:8000/play/a0hv/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 6 HD
-#EXTVLCOPT:network-caching=1000
-http://38.224.48.4:8000/play/a0wk/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 5 HD
-#EXTVLCOPT:network-caching=1000
-http://38.224.48.4:8000/play/a0xz/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 4 HD
-#EXTVLCOPT:network-caching=1000
-http://38.224.48.4:8000/play/a0ov/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 2 HD
-#EXTVLCOPT:network-caching=1000
-http://38.224.48.4:8000/play/a0y0/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 3 HD
-#EXTVLCOPT:network-caching=1000
-http://38.224.48.4:8000/play/a0im/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 5 HD
-#EXTVLCOPT:network-caching=1000
-http://38.224.48.4:8000/play/a0ig/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 2 HD
-#EXTVLCOPT:network-caching=1000
-http://38.224.48.4:8000/play/a0x0/index.m3u8
-#EXTINF:0 group-title="AIRE Y NOTICIAS",TNT Sports HD
-#EXTVLCOPT:network-caching=1000
-http://200.123.40.1:8000/play/a05d/index.m3u8
+http://45.4.3.177:9999/play/a0bi
 #EXTINF:0 group-title="CINE Y SERIES",Space HD
 #EXTVLCOPT:network-caching=1000
-http://200.123.40.1:8000/play/a057/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN Premium HD
+http://38.210.105.10:8000/play/a0fb/index.m3u8
+#EXTINF:0 group-title="VARIEDAD",OXIGENO_MIC_baja
 #EXTVLCOPT:network-caching=1000
-http://200.123.40.1:8000/play/a04k/index.m3u8
-#EXTINF:0 group-title="VARIEDAD",Eventos 1 HD (ar)
+http://38.210.105.10:8000/play/ryc/index.m3u8
+#EXTINF:0 group-title="CINE Y SERIES",CINE_LATINO_MIC
 #EXTVLCOPT:network-caching=1000
-http://200.123.40.1:8000/play/a04m/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 1 HD
+http://38.210.105.10:8000/play/a0ax/index.m3u8
+#EXTINF:0 group-title="CINE Y SERIES",Sony HD
 #EXTVLCOPT:network-caching=1000
-http://200.123.40.1:8000/play/a04g/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 3 HD
-#EXTVLCOPT:network-caching=1000
-http://200.123.40.1:8000/play/a04i/index.m3u8
-#EXTINF:0 group-title="AIRE Y NOTICIAS",AMERICA TV HD
-#EXTVLCOPT:network-caching=1000
-http://200.123.40.1:8000/play/a041/index.m3u8
-#EXTINF:0 group-title="DEPORTES",TyC Sports HD
-#EXTVLCOPT:network-caching=1000
-http://200.123.40.1:8000/play/a05e/index.m3u8
+http://177.53.152.117:8000/play/a03m/index.m3u8
