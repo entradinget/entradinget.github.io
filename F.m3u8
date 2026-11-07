@@ -1,0 +1,295 @@
+#EXTM3U
+#EXTINF:0 group-title="DEPORTES",E24 TYC SPORT
+#EXTVLCOPT:network-caching=1000
+http://190.128.214.97:64333/play/a01l/index.m3u8
+#EXTINF:0 group-title="DEPORTES",E4 ESPN CO
+#EXTVLCOPT:network-caching=1000
+http://190.128.214.97:64333/play/a01p/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ENC2 - ESPN 2 CO.
+#EXTVLCOPT:network-caching=1000
+http://190.128.214.97:64333/play/a02h/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ENC3 - ESPN PREMIUM
+#EXTVLCOPT:network-caching=1000
+http://190.128.214.97:64333/play/a02i/index.m3u8
+#EXTINF:0 group-title="DEPORTES",L3E1 ESPN 3
+#EXTVLCOPT:network-caching=1000
+http://190.128.214.97:64333/play/a01i/index.m3u8
+#EXTINF:0 group-title="DEPORTES",L3E2 - ESPN 5
+#EXTVLCOPT:network-caching=1000
+http://190.128.214.97:64333/play/a01j/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 5 HD
+#EXTVLCOPT:network-caching=1000
+http://191.52.214.129:8000/play/a09i/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 4 HD - 1607
+#EXTVLCOPT:network-caching=1000
+http://191.52.214.129:8000/play/a09f/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 6 HD - 1653
+#EXTVLCOPT:network-caching=1000
+http://191.52.214.129:8000/play/a09g/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 7HD - 1621
+#EXTVLCOPT:network-caching=1000
+http://191.52.214.129:8000/play/a08r/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN Premium HD - 1603
+#EXTVLCOPT:network-caching=1000
+http://191.52.214.129:8000/play/a08e/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN Premium HD
+#EXTVLCOPT:network-caching=1000
+http://38.199.5.160:8000/play/a0ea/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://38.199.5.160:8000/play/a0a4/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://38.199.5.160:8000/play/a0em/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 5HD
+#EXTVLCOPT:network-caching=1000
+http://38.199.5.160:8000/play/a0a5/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 6 HD
+#EXTVLCOPT:network-caching=1000
+http://38.199.5.160:8000/play/a0bx/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 7HD
+#EXTVLCOPT:network-caching=1000
+http://38.199.5.160:8000/play/a07w/index.m3u8
+#EXTINF:0 group-title="AIRE Y NOTICIAS",TNT Sports Premium SD
+#EXTVLCOPT:network-caching=1000
+http://38.199.5.160:8000/play/a0dv/index.m3u8
+#EXTINF:0 group-title="AIRE Y NOTICIAS",TNT SPORTS
+#EXTVLCOPT:network-caching=1000
+http://38.199.5.160:8000/play/a0br/index.m3u8
+#EXTINF:0 group-title="DEPORTES",TyC
+#EXTVLCOPT:network-caching=1000
+http://190.151.80.242:9990/play/a0op/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN PREMIUM
+#EXTVLCOPT:network-caching=1000
+http://190.151.80.242:9990/play/a0kh/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 6
+#EXTVLCOPT:network-caching=1000
+http://190.151.80.242:9990/play/a0k7/index.m3u8
+#EXTINF:0 group-title="AIRE Y NOTICIAS",TNT SPORTS Premium
+#EXTVLCOPT:network-caching=1000
+http://190.151.80.242:9990/play/a0kg/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 7
+#EXTVLCOPT:network-caching=1000
+http://190.151.80.242:9990/play/a0k6/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 3
+#EXTVLCOPT:network-caching=1000
+http://190.151.80.242:9990/play/a0lx/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://190.151.80.242:9990/play/a0kp/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 4
+#EXTVLCOPT:network-caching=1000
+http://190.151.80.242:9990/play/a0jl/index.m3u8
+#EXTINF:0 group-title="DEPORTES",TYC SPORTS
+#EXTVLCOPT:network-caching=1000
+http://38.252.215.33:8000/play/a00t/index.m3u8
+#EXTINF:0 group-title="DEPORTES",DSPORTS 1
+#EXTVLCOPT:network-caching=1000
+http://38.252.215.33:8000/play/a00q/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN1
+#EXTVLCOPT:network-caching=1000
+http://38.252.215.33:8000/play/a00j/index.m3u8
+#EXTINF:0 group-title="DEPORTES",DSPORTS 2
+#EXTVLCOPT:network-caching=1000
+http://38.252.215.33:8000/play/a00r/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN3
+#EXTVLCOPT:network-caching=1000
+http://38.252.215.33:8000/play/a00l/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN2
+#EXTVLCOPT:network-caching=1000
+http://38.252.215.33:8000/play/a00k/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN4
+#EXTVLCOPT:network-caching=1000
+http://38.252.215.33:8000/play/a00m/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN7
+#EXTVLCOPT:network-caching=1000
+http://38.252.215.33:8000/play/a00p/index.m3u8
+#EXTINF:0 group-title="AIRE Y NOTICIAS",TNT SPORTS
+#EXTVLCOPT:network-caching=1000
+http://38.252.215.33:8000/play/a00i/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN Premium HD
+#EXTVLCOPT:network-caching=1000
+http://179.43.96.253:8000/play/a235/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://179.43.96.253:8000/play/a24x/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 7HD
+#EXTVLCOPT:network-caching=1000
+http://179.43.96.253:8000/play/a1ur/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 5HD
+#EXTVLCOPT:network-caching=1000
+http://179.43.96.253:8000/play/a1yf/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 6HD
+#EXTVLCOPT:network-caching=1000
+http://179.43.96.253:8000/play/a1y9/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 5 HD
+#EXTVLCOPT:network-caching=1000
+http://179.43.96.253:8000/play/a2c4/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://179.43.96.253:8000/play/a21y/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://179.43.96.253:8000/play/a1yn/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://179.43.96.253:8000/play/a1ys/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://179.43.96.253:8000/play/a2c3/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://179.43.96.253:8000/play/a2c6/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://190.128.214.97:64333/play/a03b/index.m3u8
+#EXTINF:0 group-title="AIRE Y NOTICIAS",ENC7 - TNT SPORT HD
+#EXTVLCOPT:network-caching=1000
+http://190.128.214.97:64333/play/a03c/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ENC5 - ESPN 7
+#EXTVLCOPT:network-caching=1000
+http://190.128.214.97:64333/play/a039/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN5 HD
+#EXTVLCOPT:network-caching=1000
+http://181.224.255.210:8001/play/a0pr/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.250:8000/play/a0ku/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.250:8000/play/a0qw/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 2 T
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.250:8000/play/a014/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 4 T
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.250:8000/play/a0k0/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 6 HD
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.250:8000/play/a0qq/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 5 T
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.250:8000/play/a0jz/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.250:8000/play/a0o3/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.250:8000/play/a0r8/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 7 HD
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.250:8000/play/a0nw/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 6
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.250:8000/play/a0r4/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.250:8000/play/a0kg/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 5 HD
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.250:8000/play/a0qx/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 6 T
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.250:8000/play/a08w/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.250:8000/play/a0l2/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN Premium HD
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.250:8000/play/a0l5/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN T
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.250:8000/play/a0k1/index.m3u8
+#EXTINF:0 group-title="DEPORTES",Espn Premium
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.250:8000/play/a0lb/index.m3u8
+#EXTINF:0 group-title="DEPORTES",Fox Sports 3 T
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.250:8000/play/a013/index.m3u8
+#EXTINF:0 group-title="DEPORTES",Claro Sports 1 SD
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.249:8000/play/a072/index.m3u8
+#EXTINF:0 group-title="DEPORTES",Claro Sports 1 HD
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.249:8000/play/a06z/index.m3u8
+#EXTINF:0 group-title="DEPORTES",Claro Sports 3 HD
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.249:8000/play/a06e/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.249:8000/play/a04h/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.249:8000/play/a04i/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 3
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.249:8000/play/a03f/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 4
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.249:8000/play/a06h/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN  4 HD
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.249:8000/play/a06c/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 5
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.249:8000/play/a06r/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 5  HD
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.249:8000/play/a06t/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 6
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.249:8000/play/a06b/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://38.3.162.3:18009/play/a05m/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN Premium HD
+#EXTVLCOPT:network-caching=1000
+http://38.3.162.3:18009/play/a0ho/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://38.3.162.3:18009/play/a0hm/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 6HD
+#EXTVLCOPT:network-caching=1000
+http://38.3.162.3:18009/play/a0dz/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 7 HD
+#EXTVLCOPT:network-caching=1000
+http://38.3.162.3:18009/play/a0dp/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 2 Latin
+#EXTVLCOPT:network-caching=1000
+http://38.3.162.3:18009/play/a01q/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://38.3.162.3:18009/play/a0hu/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 5
+#EXTVLCOPT:network-caching=1000
+http://38.3.162.3:18009/play/a01p/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 3
+#EXTVLCOPT:network-caching=1000
+http://38.3.162.3:18009/play/a04g/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN
+#EXTVLCOPT:network-caching=1000
+http://38.3.162.3:18009/play/a01r/index.m3u8
+#EXTINF:0 group-title="DEPORTES",TYC SPORTS
+#EXTVLCOPT:network-caching=1000
+http://45.4.3.177:9999/play/a0fv
+#EXTINF:0 group-title="DEPORTES",ESPN 2 Latin
+#EXTVLCOPT:network-caching=1000
+http://45.4.3.177:9999/play/a0be
+#EXTINF:0 group-title="DEPORTES",ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.105.10:8000/play/a09g/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://177.53.152.117:8000/play/a04y/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://177.53.152.117:8000/play/a00q/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN
+#EXTVLCOPT:network-caching=1000
+http://177.53.152.117:8000/play/a01i/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 2 Latin
+#EXTVLCOPT:network-caching=1000
+http://45.170.130.224:8000/play/a01x/index.m3u8
+#EXTINF:0 group-title="DEPORTES",TyC
+#EXTVLCOPT:network-caching=1000
+http://45.170.130.224:8000/play/a020/index.m3u8
